@@ -1,2 +1,2 @@
-# hoeger-katarina-iSpy
-i spy game text example for nmd 211
+# Katarina Hoeger's iSpy
+I spy game text example for nmd 211.
